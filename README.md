@@ -1,7 +1,7 @@
 # Hi there, I'm Rakib -Full-stack SQA and Test Automation Engineer  👋 
 
 - 🔭 Check out my Github 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 🥅 2023 Goals: Learn more 
 - ⚡ Fun fact: I love to Play cricket
 
