@@ -1,6 +1,6 @@
 # Hi there, I'm Rakib -Full-stack SQA and Test Automation Engineer  👋 
 
-## I'm a Software Test Automation Engineer || SQA Engineer ||
+## I'm a Software Test Automation Engineer || SQA Engineer
 
 - 🔭 Check out my Github 
 - 🌱 I’m currently learning everything 🤣
