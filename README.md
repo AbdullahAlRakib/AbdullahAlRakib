@@ -4,7 +4,6 @@
 
 - 🔭 Check out my Github 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more 
 - ⚡ Fun fact: I love to Play cricket
 
