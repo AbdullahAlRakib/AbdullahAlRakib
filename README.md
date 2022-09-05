@@ -25,4 +25,5 @@
   <code><img height="40" src="https://user-images.githubusercontent.com/48891202/135020000-067afc86-f3e9-48ad-b9a3-2c234fa0eb9f.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/48891202/135020058-88e277f2-36a5-4ff7-a1ee-8ef37e2c6c58.png"></code>
   
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rakib&theme=highcontrast)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
