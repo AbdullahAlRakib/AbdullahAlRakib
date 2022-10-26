@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rakib</h1>
-<!--<h3 align="center">Full-stack SQA and Test Automation Engineer</h3>-->
+<h3 align="center">Frontend Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalrakib&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahalrakib" /> </p>
 
-- 🔭 I’m currently working on **Manual Testing & Automation**
+- 🔭 I’m currently working on **Frontend Web Development (React JS) **
 
 - 🌱 I’m currently learning **everything**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbdullahAlRakib](https://github.com/AbdullahAlRakib)
 
-- 💬 Ask me about **Manual and Automation Testing**
+- 💬 Ask me about **Frontend Web Development**
 
 - 📫 How to reach me **abdullahalrakib486@gmail.com**
 
